@@ -1,6 +1,6 @@
 ## Hello, world! 🙋‍♀️
 
-***<h3>Gaúcha, apaixonada por animais e livros! Conheça um pouquinho mais sobre mim:</h3>***
+***<h3>Gaúcha, apaixonada por tecnologia, animais e livros! Conheça um pouquinho mais sobre mim:</h3>***
 
 ```ruby
 let name: 'Thaísy Morais',
