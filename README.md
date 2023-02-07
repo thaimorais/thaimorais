@@ -3,23 +3,20 @@
 ***<h3>Gaúcha, apaixonada por tecnologia, animais e livros! Conheça um pouquinho mais sobre mim:</h3>***
 
 ```ruby
-let name: 'Thaísy Morais',
-let pronouns: 'she/her',
+const name: 'Thaísy Morais',
+const pronouns: 'she/her',
 let studentAt: Trybe,
 
 const thai = {
-  moduleComplete: 'Front-end',
-  currentModule: 'Back-end',
+  moduleComplete: ['Front-end', 'Back-end'],
+  currentModule: 'Computer Science',
   learned: {
-    code: [JavaScript, HTML, CSS],
-    tools: [React, Redux/Context Api, Jest, RTL],
+    code: ['JavaScript', 'HTML', 'CSS', 'TypeScript', 'Node.js'],
+    tools: ['React', 'Redux/ContextApi', 'Jest', 'RTL', 'Docker', 'MySQL', 'MongoDB', 'POO', 'SOLID'],
     agileMethodologies: ['Scrum', 'Kanban'],
     versionControl: 'Git',
   },
-  learning: {
-    code: [TypeScript, Node.js, Python],
-    tools: [Docker, MySQL, MongoDB, POO, SOLID],
-  },
+  learning: 'Python',
 };
 ```
 <div align='center'>
