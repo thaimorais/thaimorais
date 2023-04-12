@@ -3,13 +3,12 @@
 ***<h3>Gaúcha, apaixonada por tecnologia, animais e livros! Conheça um pouquinho mais sobre mim:</h3>***
 
 ```ruby
-const name = 'Thaísy Morais',
-const pronouns = 'she/her',
-let studentAt = Trybe,
+const name = 'Thaísy Morais'
+const pronouns = 'she/her'
+let studentAt = 'Estácio' 
 
 const thai = {
-  moduleComplete: ['Front-end', 'Back-end'],
-  currentModule: 'Computer Science',
+  moduleCompleteInTrybe: ['Fundamentals', 'Front-end', 'Back-end', 'Computer Science'],
   learned: {
     code: ['JavaScript', 'HTML', 'CSS', 'TypeScript', 'Node.js'],
     tools: ['React', 'Redux/ContextApi', 'Jest', 'RTL', 'Docker', 'MySQL', 'MongoDB', 'POO', 'SOLID'],
