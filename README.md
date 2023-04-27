@@ -4,18 +4,21 @@
 
 ```ruby
 const name = 'Thaísy Morais'
-const pronouns = 'she/her'
-let studentAt = 'Estácio' 
+const pronouns = 'she/her',
+let studentAt = { 
+  college: 'Estácio',
+  course: 'Análise e Desenvolvimento de Sistemas',
+}
 
 const thai = {
   moduleCompleteInTrybe: ['Fundamentals', 'Front-end', 'Back-end', 'Computer Science'],
   learned: {
-    code: ['JavaScript', 'HTML', 'CSS', 'TypeScript', 'Node.js'],
-    tools: ['React', 'Redux/ContextApi', 'Jest', 'RTL', 'Docker', 'MySQL', 'MongoDB', 'POO', 'SOLID'],
+    code: ['JavaScript', 'HTML', 'CSS', 'TypeScript', 'Python'],
+    tools: ['React', 'Redux/ContextApi', 'Jest', 'RTL', 'TDD', 'Node.js', 'Docker', 'MySQL', 'MongoDB', 'POO', 'SOLID'],
     agileMethodologies: ['Scrum', 'Kanban'],
     versionControl: 'Git',
   },
-  learning: 'Python',
+  learning: ['Java', 'JUnit'],
 };
 ```
 <div align='center'>
